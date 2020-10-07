@@ -1,0 +1,5 @@
+layer height: 0.1mm
+wall line count: 3
+Generate support: true
+Support Z Distance: 0.2mm
+
