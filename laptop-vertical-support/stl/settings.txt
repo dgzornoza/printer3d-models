@@ -1,0 +1,5 @@
+layer height: 0.2mm
+wall line count: 3
+Generate support: false
+
+
